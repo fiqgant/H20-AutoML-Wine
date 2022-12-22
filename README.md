@@ -1,6 +1,7 @@
 # H20-AutoML-Wine
 Learn how to use AutoML to build and tune machine learning models in Python using the H2O.ai library and the wine dataset. This tutorial provides code examples and plots to help you understand how to streamline your machine learning workflow with AutoML.
 
+#[Article](https://www.fiqlab.dev/blog/automl_h2o)
 
 ## Step 1: Install the H2O.ai library
 
@@ -133,8 +134,6 @@ This code will extract the top 10 models from the leaderboard, extract the model
     className="inline rounded-lg"
     src="https://raw.githubusercontent.com/fiqgant/fiqlab/main/public/static/images/blog/top10.png"
     alt="h2o"
-    width="700"
-    height="700"
   />
 </div>
 
@@ -190,8 +189,6 @@ This code will extract the true labels and predictions from the test set, and th
     className="inline rounded-lg"
     src="https://raw.githubusercontent.com/fiqgant/fiqlab/main/public/static/images/blog/prediction_automl.png"
     alt="h2o"
-    width="700"
-    height="700"
   />
 </div>
 
